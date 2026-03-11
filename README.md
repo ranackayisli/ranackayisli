@@ -33,7 +33,7 @@
 ### 🧾 Articles & Researches
 
   - Design And Analysis of Cache Architecture → https://github.com/ranackayisli/Design-And-Analysis-of-Cache-Architecture
-  - A Case Study Energy Complexity Analysis → https://github.com/ranackayisli/A-Case-Study-Energy-Complexity
+  - A Case Study Energy Complexity Analysis → https://github.com/ranackayisli/A-Case-Study-Energy-Complexity-Public
 
 ---
 
